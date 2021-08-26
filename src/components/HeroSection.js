@@ -7,9 +7,9 @@ import { Link } from 'react-router-dom';
 function HeroSection() {
     return (
         <div className="hero-container">
-            <Link className="hero-link">
-                <video src='/reactjs-travel/videos/video-1.mp4' autoPlay loop muted />
-            </Link>
+            
+            <video src='/reactjs-travel/videos/video-1.mp4' autoPlay loop muted />
+            
             <h1>ADVENTURE AWAITS</h1>
             <p>What are you waiting for?</p>
             <div className="hero-btns">
