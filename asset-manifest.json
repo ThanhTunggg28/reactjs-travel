@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactjs-travel/static/css/main.f2c27cb9.chunk.css",
-    "main.js": "/reactjs-travel/static/js/main.c93a4a21.chunk.js",
-    "main.js.map": "/reactjs-travel/static/js/main.c93a4a21.chunk.js.map",
+    "main.css": "/reactjs-travel/static/css/main.922b081f.chunk.css",
+    "main.js": "/reactjs-travel/static/js/main.bd53bde2.chunk.js",
+    "main.js.map": "/reactjs-travel/static/js/main.bd53bde2.chunk.js.map",
     "runtime-main.js": "/reactjs-travel/static/js/runtime-main.c9fd4011.js",
     "runtime-main.js.map": "/reactjs-travel/static/js/runtime-main.c9fd4011.js.map",
     "static/js/2.685220c3.chunk.js": "/reactjs-travel/static/js/2.685220c3.chunk.js",
     "static/js/2.685220c3.chunk.js.map": "/reactjs-travel/static/js/2.685220c3.chunk.js.map",
     "index.html": "/reactjs-travel/index.html",
-    "static/css/main.f2c27cb9.chunk.css.map": "/reactjs-travel/static/css/main.f2c27cb9.chunk.css.map",
+    "static/css/main.922b081f.chunk.css.map": "/reactjs-travel/static/css/main.922b081f.chunk.css.map",
     "static/js/2.685220c3.chunk.js.LICENSE.txt": "/reactjs-travel/static/js/2.685220c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9fd4011.js",
     "static/js/2.685220c3.chunk.js",
-    "static/css/main.f2c27cb9.chunk.css",
-    "static/js/main.c93a4a21.chunk.js"
+    "static/css/main.922b081f.chunk.css",
+    "static/js/main.bd53bde2.chunk.js"
   ]
 }
